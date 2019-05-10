@@ -1,4 +1,5 @@
-# RxCleanSwift-Texture Template
+<img src="https://github.com/GeekTree0101/RxCleanSwift-Template/blob/master/resources/logo.png" />
+
 Clean Swift Template built on ReactiveX & Texture(AsyncDisplayKit)
 
 # Install
