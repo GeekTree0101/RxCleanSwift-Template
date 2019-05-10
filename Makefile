@@ -3,10 +3,10 @@ XCODE_USER_SNIPPETS_DIR=~/Library/Developer/Xcode/UserData/CodeSnippets
 
 TEMPLATES_DIR=RxCleanSwift-Texture
 
-install_templates:
+install:
 	mkdir -p $(XCODE_USER_TEMPLATES_DIR)
 	rm -fR $(XCODE_USER_TEMPLATES_DIR)/$(TEMPLATES_DIR)
 	cp -R $(TEMPLATES_DIR) $(XCODE_USER_TEMPLATES_DIR)
 
-uninstall_templates:
+uninstall:
 	rm -fR $(XCODE_USER_TEMPLATES_DIR)/$(TEMPLATES_DIR)
