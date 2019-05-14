@@ -34,13 +34,13 @@
     </dict>
     <dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___ViewControllerTests</string>
+			<string>___VARIABLE_sceneName:identifier___WorkerTests</string>
 			<key>Description</key>
-			<string>The view controller tests name</string>
+			<string>The worker tests name</string>
 			<key>Identifier</key>
 			<string>viewControllerTestsName</string>
 			<key>Name</key>
-			<string>View Controller Tests Name:</string>
+			<string>Worker Tests Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
